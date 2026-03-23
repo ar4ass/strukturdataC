@@ -1,8 +1,8 @@
 # TUGAS STRUKTUR DATA 
 
-Nama               : Much. Mentari Adriansyah
-NIM                : 2530801073
-TANGGAL PENGERJAAN : 20-23 Maret 2026
+**Nama** : Much. Mentari Adriansyah  
+**NIM** : 2530801073  
+**Tanggal Pengerjaan** : 20–23 Maret 2026
 
 ## DESKRIPSI TUGAS
 Program ini berisi:
